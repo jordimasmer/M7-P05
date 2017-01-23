@@ -1,0 +1,10 @@
+C:\Users\jordimasmer\Documents\Visual Studio 2015\Projects\M7-P05\bin\Debug\M7-P05.exe.config
+C:\Users\jordimasmer\Documents\Visual Studio 2015\Projects\M7-P05\bin\Debug\M7-P05.exe
+C:\Users\jordimasmer\Documents\Visual Studio 2015\Projects\M7-P05\bin\Debug\M7-P05.pdb
+C:\Users\jordimasmer\Documents\Visual Studio 2015\Projects\M7-P05\obj\Debug\M7-P05.csprojResolveAssemblyReference.cache
+C:\Users\jordimasmer\Documents\Visual Studio 2015\Projects\M7-P05\obj\Debug\M7_P05.Form1.resources
+C:\Users\jordimasmer\Documents\Visual Studio 2015\Projects\M7-P05\obj\Debug\M7_P05.Properties.Resources.resources
+C:\Users\jordimasmer\Documents\Visual Studio 2015\Projects\M7-P05\obj\Debug\M7-P05.csproj.GenerateResource.Cache
+C:\Users\jordimasmer\Documents\Visual Studio 2015\Projects\M7-P05\obj\Debug\M7-P05.exe
+C:\Users\jordimasmer\Documents\Visual Studio 2015\Projects\M7-P05\obj\Debug\M7-P05.pdb
+C:\Users\jordimasmer\Documents\Visual Studio 2015\Projects\M7-P05\obj\Debug\M7-P05.csproj.ResolveComReference.cache
